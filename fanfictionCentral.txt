@@ -1,0 +1,11 @@
+I will be making a fanfiction site that works on mobile. You could log in, sign up, make documents, comment on other documents. Without logging in you could see other documents from the home screen and search. I would like to make categories to make it even easier for people to look for documents.
+
+Problems with the first prototype
+1. It has to handle optional double
+2. Set up looks weird, it +looks like deviant art and deviant art sucks.
+3. If you sign up you should be able to create content. Both the creator and the reader should be able to make complaints.
+4. Should change the homepage to appeal to non-users
+5. The blog category looks terrible
+
+link to mock up
+https://thimbleprojects.org/enochss532/264696
